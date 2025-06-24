@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Majumder
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aditya Majumder
 =======================================================================================================================================
 
 Computer Science Student
@@ -8,6 +8,8 @@ A curious mind playing with ideas and code!!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [adityamajumder4214@gmail.com](mailto:adityamajumder4214@gmail.com)
+* 🚀  I'm currently working on [OpenCV-Sudoku-Solver](http://https://github.com/Aditya-Majumder4214/OpenCV-Sudoku-Solver/tree/main)
+* 🧠  I'm learning OpenCV, Neural networks, Agentic AI
 
 ### Skills
 
